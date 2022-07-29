@@ -16,7 +16,7 @@ $npm start
 run tests:
 $npm test
 
-ADDITIONAL INFO
+# ADDITIONAL INFO #
 
 blog post schema has the form:
 {
@@ -26,5 +26,5 @@ content: string,
 owner: string
 }
 
-The parentId could be referencing a post or another comment. This enables nesting of comments.
+The parentId could be referencing a post or another comment. This enables nesting of comments. owner is the user or author of the post.
 
