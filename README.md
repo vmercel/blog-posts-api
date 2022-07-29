@@ -17,11 +17,12 @@ run tests:
 $npm test
 
 ADDITIONAL INFO
+
 blog post schema has the form:
 {
-id: string
-parentId: string
-content: string
+id: string,
+parentId: string,
+content: string,
 owner: string
 }
 
