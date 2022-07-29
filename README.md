@@ -1,3 +1,4 @@
+# BRIEFING #
 This repository contains an express app with CRUD operations and their corresponding integration tests.
 Tests are implemented using jest and supertest and the API is documented using swagger.
 
