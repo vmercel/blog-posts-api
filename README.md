@@ -29,7 +29,14 @@ when server is started, the documentation is available at
 ```
 http://localhost:3000/doc
 ```
-
+posts are accessible at
+```
+http://localhost:3000/posts
+```
+comments are accessible at
+```
+http://localhost:3000/comments
+```
 # ADDITIONAL INFO #
 
 blog post schema has the form:
