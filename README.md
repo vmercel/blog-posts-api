@@ -20,6 +20,16 @@ run tests:
 ```
 $npm test
 ```
+
+Generate API documentation:
+```
+$npm start-gendoc
+```
+when server is started, the documentation is available at
+```
+http://localhost:3000/doc
+```
+
 # ADDITIONAL INFO #
 
 blog post schema has the form:
