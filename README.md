@@ -25,11 +25,7 @@ Generate API documentation:
 ```
 $npm start-gendoc
 ```
-when server is started, the documentation is available at
-```
-http://localhost:3000/doc
-```
-posts are accessible at
+when server is started, posts are accessible at
 ```
 http://localhost:3000/posts
 ```
