@@ -1,0 +1,27 @@
+[
+  {
+    "id": "NJ",
+    "parentId": "NJ",
+    "content": "Trenton",
+    "owner": "Phil Murphy"
+  },
+  {
+    "id": "CT",
+    "parentId": "CT",
+    "content": "Hartford",
+    "owner": "Ned Lamont"
+  },
+  {
+    "id": "NY",
+    "parentId": "NY",
+    "content": "Albany",
+    "owner": "Andrew Cuomo"
+  },
+  {
+    "id": "AL",
+    "parentId": "AL",
+    "content": "Montgomery",
+    "owner": "Kay Ivey"
+  },
+  {}
+]
