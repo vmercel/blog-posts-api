@@ -1,12 +1,15 @@
 This repository contains an express app with CRUD operations and their corresponding integration test.
 Tests are implemented using jest and supertest
 
-clone this repository
-git clone https://github.com/vmeercel/mercel-blog-api.git
+clone this repository:
 
-install all require dependencies
+git clone https://github.com/vmeercel/blog-posts-api.git
+
+install all require dependencies:
+
 $npm install 
 
 
-run tests
+run tests:
+
 $npm test
