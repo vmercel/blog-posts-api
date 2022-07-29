@@ -1,15 +1,29 @@
-This repository contains an express app with CRUD operations and their corresponding integration test.
-Tests are implemented using jest and supertest
+This repository contains an express app with CRUD operations and their corresponding integration tests.
+Tests are implemented using jest and supertest and the API is documented using swagger.
 
 clone this repository:
 
 git clone https://github.com/vmeercel/blog-posts-api.git
 
 install all require dependencies:
-
 $npm install 
 
 
-run tests:
+start the server:
+$npm start
 
+
+run tests:
 $npm test
+
+ADDITIONAL INFO
+blog post schema has the form:
+{
+id: string
+parentId: string
+content: string
+owner: string
+}
+
+The parentId could be referencing a post or another comment. This enables nesting of comments.
+
