@@ -41,5 +41,5 @@ content: string,
 owner: string
 }
 ```
-The parentId could be referencing a post or another comment. This enables nesting of comments. owner is the user or author of the post.
+The parentId could be referencing a post or another comment. This enables nesting of comments. owner is the user or author of the post/comment.
 
